@@ -1,0 +1,92 @@
+body
+{
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+header
+{
+  background-color: rgba(2, 25, 30, 0.95);
+}
+
+.nav li a
+{
+  color: black;
+  font-size: 15px;
+  background-color: #4d4d4d;
+  transition: background 1s;
+}
+
+
+.nav li a:hover
+{
+  background-color: #726f6f;
+  color: white;
+}
+
+.menu
+{
+  background-color: #4d4d4d;
+}
+
+.img-social
+{
+  width: 30px;
+  height: 30px;
+  transition: background 1s;
+}
+
+.img-social:hover
+{
+	filter: opacity(80%);
+}
+
+.logo
+{
+  width: 300px;
+  margin-left: 20px;
+}
+
+.contenido
+{
+  background-color: rgba(2, 25, 30, 0.95);
+  color: white;
+  padding: 5px;
+}
+
+.img-post
+{
+  width: 100%;
+  height: 100%;
+}
+
+.img-user
+{
+  height: 55px;
+}
+
+footer
+{
+  background-color: rgba(2, 25, 30, 0.95);
+  color: white;
+  padding: 10px 20px 0px 20px;
+}
+
+.list-group a
+{
+  color: black;
+  background-color: #4d4d4d;
+  border: solid 2px #4a4a4a;
+  transition: background 1s;
+}
+
+.list-group a:hover
+{
+  background-color: #726f6f;
+  color: white;
+}
