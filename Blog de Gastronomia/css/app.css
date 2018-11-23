@@ -1,0 +1,64 @@
+body
+{
+  background: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+h1
+{
+  font-family: 'Playball', cursive;
+}
+h6,h4,h3
+{
+  color: #ff4817;
+}
+
+.contenedor
+{
+  background: rgba(219, 129, 85, 0.7);
+}
+
+.contenido
+{
+  background: #f7d5ad;
+}
+
+
+img
+{
+  height: 120px;
+}
+
+.img-blog
+{
+  width: 100%;
+  height: 100%;
+}
+
+
+li
+{
+  list-style: none;
+  text-decoration: none;
+}
+
+.b
+{
+  background: #f27200;
+}
+
+a
+{
+  color: #ff4817;
+}
+
+.img-user
+{
+  width: 60px;
+  height: 60px;
+}
